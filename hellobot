@@ -1,0 +1,8 @@
+#Ana Karen Zazueta Pimentel
+#A01630485
+print ("Hello!")
+name = str (input("Whats your name? "))
+print ("Nice to meet you " + name)
+age = str (input("How old are you? "))
+print (age + "? Thats cool")
+print("Okay " + name + " have fun programming!")
